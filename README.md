@@ -20,3 +20,5 @@ x + y
 ```
 
 Evaluate the example with command, `./Calc example.txt` which will generate the result `30.0`.
+
+I wrote the code in `Interpret.hs`, most of the rest comes from the tutorial.
