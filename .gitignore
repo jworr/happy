@@ -1,0 +1,5 @@
+Calc
+*.txt
+*.swp
+Calc.hs
+lib/
